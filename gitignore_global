@@ -1,0 +1,14 @@
+# General
+.DS_Store
+*~
+
+# Xcode
+xcuserdata
+*.xccheckout
+DerivedData/
+
+# Cocoapods
+Pods/
+
+
+.uncrustify_timestamp
